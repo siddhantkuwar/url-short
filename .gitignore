@@ -1,0 +1,29 @@
+# Virtual environments
+urlshortvenv/
+venv/
+.env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Build / packaging
+build/
+dist/
+*.egg-info/
+
+# Environment / secrets
+.env
+.env.*
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Testing / coverage
+.pytest_cache/
+.coverage
+htmlcov/
